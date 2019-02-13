@@ -1,0 +1,6 @@
+C:\git\PP2\lab1\Week2\Task3\bin\Debug\Task3.exe.config
+C:\git\PP2\lab1\Week2\Task3\bin\Debug\Task3.exe
+C:\git\PP2\lab1\Week2\Task3\bin\Debug\Task3.pdb
+C:\git\PP2\lab1\Week2\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\git\PP2\lab1\Week2\Task3\obj\Debug\Task3.exe
+C:\git\PP2\lab1\Week2\Task3\obj\Debug\Task3.pdb
