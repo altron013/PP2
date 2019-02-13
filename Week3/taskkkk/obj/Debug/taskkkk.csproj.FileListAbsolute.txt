@@ -1,0 +1,7 @@
+C:\git\PP2\lab1\Week3\taskkkk\bin\Debug\taskkkk.exe.config
+C:\git\PP2\lab1\Week3\taskkkk\bin\Debug\taskkkk.exe
+C:\git\PP2\lab1\Week3\taskkkk\bin\Debug\taskkkk.pdb
+C:\git\PP2\lab1\Week3\taskkkk\obj\Debug\taskkkk.csprojAssemblyReference.cache
+C:\git\PP2\lab1\Week3\taskkkk\obj\Debug\taskkkk.csproj.CoreCompileInputs.cache
+C:\git\PP2\lab1\Week3\taskkkk\obj\Debug\taskkkk.exe
+C:\git\PP2\lab1\Week3\taskkkk\obj\Debug\taskkkk.pdb
