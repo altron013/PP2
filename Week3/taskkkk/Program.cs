@@ -88,18 +88,7 @@ namespace ConsoleApp1
                         break;
                     }
                 }
-                if (keyInfo.Key == ConsoleKey.Escape) // при нажатии escape
-                {
-                    Console.BackgroundColor = ConsoleColor.Black;
-                    Console.Clear();
-                    Console.WriteLine("Are you sure? "); //если юзер хочет выйти с проги
-                    Console.WriteLine("Y or N");
-                    string o = Console.ReadLine();
-                    if (o == "Y")
-                    {
-                        Environment.Exit(0);// выйти с проги
-                    }
-                }
+                
                 if (keyInfo.Key == ConsoleKey.D) // при нажатии "D"
                 {
                     Console.BackgroundColor = ConsoleColor.Black;
